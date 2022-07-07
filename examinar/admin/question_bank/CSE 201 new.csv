@@ -1,0 +1,60 @@
+1,Which of the following is not a hardware? ,Keyboard ,RAM ,Operating System ,Printer ,c
+2,What is the output of the pascal snippet below? <br/> Var pi = 3.142? <br/> write('The value of pi is: 'pi);,The value of pi is: 3.142,The value of pi is 3.142,The value of pi is:3.142,The program would return an error,a
+3,Which of the following data types can be used to store data of different data type?,array,integer,string,record,d
+4,Which of the following access specifiers indicate methods and fields accessible only to the class that declares it and its subclasses?,public,private,protected,internal,c
+5,Which of the following is not part of the processing unit of  the computer system,Registers,Control Unit,Arithmetic Logical Unit,Visual Display Unit,d
+6,Which of the following is correct about type in pascal,It is declared immediately before constant declaration,It is used to make user defined declarations,It is always declared in capital,All of the above,b
+7,"Pascal includes two types of looping, these are?",conditional and unconditional,iterational and non-iterational,selection and repetition,conditional and iterational,a
+8,Which of the following procedures can be called to open a file?,Reset,Rewrite,Append,All of the above,d
+9,Which of the following is not correct about a constructor?,It is a method,It is created to allocate memory for an instance of a class,Its standard name is Create,It must be declared before any other method,d
+10,The part of the computer system that can be seen and felt is the _______,Software,Hardware,People ware,User ware,b
+11,Which of the following declarations of a constant is correct?,They would both execute at least once,Repeat...until would execute at least once but while...do may not execute at all,Repeat...until executes from false to true but while...do executes from true to false,The body of while...do can take multiple statements while the body of repeat...until takes one statement,a
+12,The content of an array are accessed through their ________,data stucture,index,assigned value,local parameter,b
+13,Which of the following procedures is used in Delphi5 to free an object and set its reference to nil,FreeUp,FreeAndNull,setNull,FreeAndNil,b
+14,Which of the following programming languages is the most efficient?,Assembly Language,Machine Language,High Level Language,Very High Level Language,c
+15,Which of the following is not among the pascal character set?,^,:=,\,..,c
+16,Which of the following is a valid exponential operator supported by pascal?,^,*,Exp,Non of the above,c
+17,Which of the following is not true about record?,The data type of each of the fields must be specified,Different fields must not have the same data type,Its declaration is terminated with an end without a begin,B and C,b
+18,Which of the following is not correct about a destructor?,It is a method,It is called to free allocated memory,It can't be used without the constructor,It is declared as Destroy by default,c
+19,Which of the following is regarded as a volatile memory?,RAM,ROM,EEPROM,APROM,a
+20,All but one of the following is correct about pascal,It is case sensitive,It is not case sensitive,It is compiled,It is translated,a
+21,The syntax of a goto statement in pascal is_______,GOTO: Label;,goto label;,GOTO := label;,goto = label;,b
+22,Which of the following declarations of an array is not correct?,VAR boy : array[1..10] of integer;,TYPE boy = array[1..10] of integer;,TYPE boy = array[15] of integer;,None of the above,c
+23,Which of the following is true about the components placed on a form?,The instance of their objects is created automatically,Their instances are built automatically by the Delphi library,They must all receive a caption,All of the above,b
+24,Which of the following is not a secondary memory?,Flash drive,Magnetic tape,Hard disk,RAM,d
+25,Which of the following is not a type of statement in pascal?,Simple statement,Conditional statement,Structured statement,Functional statement,d
+26,Which of the following is not true about the operators = and := in pascal?,:= is an assignment operator,#NAME?,:= is used during constant declaration,#NAME?,c
+27,Which of the following is true about objects in delphi?,It creates an instance of a class,It is registered in memory as a constant,It contains a reference or a pointer indicating the memory location it has been stored,It can be referenced from outside the class when it's declared private,c
+28,Which of the following is not a characteristic of the main memory?,It is relatively cheap,It has a fast access time,It has a relatively large size,None of the above,c
+29,Which of the following is not a type of statement in pascal?,Simple,Structured,Reference,Pointer,c
+30,Which of the following is not a valid 'for loop' in pascal?,for int counter:= initial to final do,for int counter:= final to initial do,for int counter:= final downto final do,None of the above,d
+31,"A record named student has fields matric,name,mail and cgpa. Which of the following would be  used to access the name field?",record[2],record.name,student.name,student.record[name],c
+32,All but one of the following is true about overloaded methods in delphi pascal,They are methods with the same name but diffenrent declaration,Overload keyword must be appended to the name of the methods,The methods can have the same parameter list,The compiler would call the appropriate method depending on parameter list,c
+33,The type of computer that perform calculation by counting numbers which are represented in discrete states of the computer electronic circuitry is ________,Analog Computer,Digital Computer,Conceptual Computer,Hybrid Computer,b
+34,Which of the following is the correct way of writing comments in pascal,(*comment*),{comment},('comment'),A and B,d
+35,"Given that x = 2, evaluate the expression odd(x)",2,TRUE,-2,FALSE,d
+36,Which of the following is true about the last element in an array?,Its index is arrayLength-1,It can have a data type different from the data type of the array,Its value can not be modified,None of the above,a
+37,The concept of object oriented programming that deals with data hiding is_____, Inheritance,Encapsulation,Polymorphism,Overriding,b
+38,Which of the following declarations of a label is correct?,Label 10;,Label myLab = 10;,Label myLab := 10;,All of the above,a
+39,"What is the output of the program snippet below: <br/> CONST name = 'sade';<br/>...<br/>write('My name is ',name);<br/>writeln('I am a lady');",The program prints 'My name is sadeIam a lady' on the same line,The program prints 'My name is sade' and then 'I am a lady' on the next line,"The program prints 'My name is sade, I am a lady' on the same line",The program would return an error,a
+40,"There are two types of file in pascal, these are",Temporary and permanent file,External and internal file,Assigned and Un-Assigned file,A and B,d
+41,Which of the following declarations is correct for a class1 that wishes to inherit another class2?,VAR class1 : class2,TYPE class1 = class2,TYPE class1 = (class)class2, VAR class1 : (class)class2,c
+42,Which of the following correctly define an algorithm?,It is the sequential steps of solving a computational task,It is the methods involved in solving a programming problem,It is diagramatic/graphical representation of a computer program,It is the sequential steps of solving a computational task written in any language,d
+43,Which of the following declarations of a variable is correct?,VARIABLE ade = 35 : integer;,var yayi: real;,VAR input : integer;,B and C,b
+44,Which of the following is true about a function?,It has a return type,It has the same declaration as a procedure,It can be declared in the body of the program,It must be called within a repetitive statement,a
+45,"Which of the following is correct about the efficiency of programming languages? <br/>ML(Machine Lang.),AL(Assembly Lang.),HLL(High Level Lang.)",ML<AL<HLL,HLL>AL>ML,ML>AL>HLL,HLL>ML>AL,c
+46,Which of the following is not an access specifier?,public,private,protected,internal,d
+47,The type of memory whose size is usually in few kilobytes that acts as a temporary holding area for instruction and data is known as _______,Random Access Memory,Register,Mass Memory,Logical Memory,b
+48,An expression is defined as, A collection of operands,A collection of operands joined by operators,A collection of algebraic terms,Addition of two or more operands,b
+49,Which of the following operators is used to perform truncated division?, /,DIV,MOD,TRUNC,b
+50,Which of the following procedures can be called to open a file?,Reset,Rewrite,Append,All of the above,d
+51,Which of the following is used to write to an untyped binary file, Assign,Block Read,BlockWrite,B and C,c
+52,A compiler converts a computer program otherwise known as _________ into an equivalent machine code,object code,high level code,source code,byte code,b
+53,Which of the following is correct about a constant?,It is a program element whose value can be modified during program execution,It is a program element whose value won't change during program execution,It is a program element that is assigned value during execution,None of the above,b
+54,Which of the following is not true about the operators = and := in pascal?,:= is an assignment operator, = is used for comparison,:= is used during constant declaration, = can be used to form boolean expressions,c
+55,All but one of the following is true about the data store in an array,They are homogenous,The are ordered,The are added in ascending order,They can be modified,c
+56,Which of the following access specifiers denotes fields that are not accessible outside the unit that declares the class?,public,private,internal,protected,b
+57,The type of software which manages computer resources such as processor and memories is the ______?,Translators,System Software,Utility Program,Application Software,b
+58,Pascal can be regarded as a ________ type of programming language,Object Oriented,Structured,Case Sensitive,Query generating,b
+59,The two programming structures used for modularization in pascal are,Repeat...until and while...do,selection and iteration,procedure and function,sub-unit and case structure,c
+60,Which of the following is not true about an array and a record data type?,They are both structured data type,Array elements are retrieved by their index while record fields are retrieved by their name,Their content is homogenous,They are both temporary storage,c

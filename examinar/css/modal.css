@@ -1,0 +1,60 @@
+#mask {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 9000;
+  background-color: #000;
+  display: none;
+}
+
+#boxes .window {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 700px;
+  height: auto;
+  display: none;
+  z-index: 9999;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+#boxes #dialog {
+  width: 700px;
+  height: auto;
+  padding: 10px;
+  background-color: #ffffff;
+  font-family: 'Segoe UI Light', sans-serif;
+}
+
+.popupheader {
+  text-align: center;
+  width: 100%;
+}
+
+.popupcontent {
+  width: 100%;
+  font-size: 18px;
+  text-align: justify;
+}
+
+.popupfoot {
+  width: 100%;
+}
+
+.type {
+  text-transform: lowercase;
+}
+
+.agree {
+  text-decoration: underline;
+  font-size: 18px;
+}
+
+.agree:hover{
+  text-decoration: underline;
+}
+
+hr {
+  width: 70%;
+}
